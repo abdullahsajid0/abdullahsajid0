@@ -93,7 +93,7 @@ I'm a Full Stack Developer passionate about cloud computing, blockchain technolo
   <a href="https://leetcode.com/u/abdullahsajid0/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://lablab.ai/u/@abdullahsajid0" target="_blank">
+  <a href="https://lablab.ai/u/@abdullahsajid" target="_blank">
     <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
   </a>
   <a href="mailto:abdullahsajid320@gmail.com">
