@@ -87,7 +87,7 @@ I'm a Full Stack Developer passionate about cloud computing, blockchain technolo
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullahsajid/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullahsajid0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/abdullahsajid" target="_blank">
