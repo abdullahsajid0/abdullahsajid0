@@ -1,71 +1,70 @@
-# 👋 Hi, I'm Abdullah Sajid
+# Abdullah Sajid
+### Full Stack Developer & Cloud Computing Specialist
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23008000&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Computing+Specialist;Web3+Development+Enthusiast;Open+Source+Contributor;Tech+Community+Builder">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=%23008000&size=28&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Development;Cloud+Architecture;Enterprise+Solutions;Blockchain+Technology;Software+Engineering">
 </div>
 
-## 🎯 Quick Overview
+## Professional Summary
 ```python
-class AbdullahSajid:
+class TechProfessional:
     def __init__(self):
         self.name = "Abdullah Sajid"
-        self.role = "Full Stack Developer & Cloud Expert"
+        self.position = "Full Stack Developer"
+        self.specialization = "Cloud Computing & Web3"
         self.location = "Faisalabad, Pakistan"
-        self.education = "BS Software Engineering (2023-2027)"
-        self.expertise = ["Full Stack", "Cloud Computing", "Web3", "DevOps"]
-        self.interests = ["Blockchain", "System Design", "Open Source"]
-        
-    def say_hi(self):
-        print("Building the future with code, one commit at a time!")
+        self.focus_areas = {
+            "development": ["Full Stack", "Cloud Native", "Web3"],
+            "architecture": ["System Design", "Cloud Infrastructure"],
+            "interests": ["Blockchain", "DevOps", "Open Source"]
+        }
+    
+    def mission_statement(self):
+        return "Architecting scalable solutions and driving technological innovation"
 ```
 
-## 👨‍💻 About Me
-I'm a Full Stack Developer passionate about cloud computing, blockchain technology, and building scalable applications. I love contributing to open source and believe in the power of community-driven development.
+## Professional Background
 
-- 🎓 **Education**: Bachelor's in Software Engineering (2023-2027), University of Agriculture , Faisalabad, Pakistan
-- 🏆 **Notable Achievements**: 
-  - AWS Cloud Practitioner Certified
-  - Top contributor at Digital Pakistan Hackathon
-  - Active participant in ETHGlobal Hackathons
-  - Regular contributor to open source projects
-  - Web3 development advocate
-  [View Achievements](https://docs.google.com/spreadsheets/d/your-sheet-id)
-- 🌟 **Community Involvement**:
-  - Tech community organizer for local developer meetups
-  - Workshop facilitator for cloud computing basics
-  - Open source mentorship program participant
-  [View Activities](https://docs.google.com/spreadsheets/d/your-sheet-id)
+### Education
+- 🎓 Bachelor of Software Engineering (2023-2027)
+  - University of Agriculture, Faisalabad
+  - Focus: Software Architecture & Cloud Computing
 
-## 🛠️ Technical Skills
+### Professional Achievements
+- ☁️ AWS Cloud Practitioner Certification
+- 🏆 Distinguished Contributor - Digital Pakistan Hackathon
+- 🌐 Active Participant - ETHGlobal Hackathon Series
+- 💻 Significant Open Source Contributions
+- 🔗 Web3 Development & Implementation Specialist
 
-### Programming Languages
+### Technical Leadership
+- 📚 Technical Workshop Facilitator - Cloud Computing
+- 👥 Developer Community Organizer
+- 🤝 Open Source Project Mentor
+
+## Technical Expertise
+
+### Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,solidity,rust,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,solidity&theme=dark" />
 </p>
 
-### Frameworks & Technologies
+### Development Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,mongodb,postgresql&theme=dark" />
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="48" alt="Docker" />
 </p>
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform&theme=dark" />
 </p>
 
-### Development Tools
+### Development Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab&theme=dark" />
 </p>
 
-## 💻 Development & Deployment
-### Cloud Services
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku&theme=dark" />
-</p>
-
-## 📈 GitHub Analytics
+## Professional Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsajid&theme=github-dark&hide_border=true" width="100%"/>
@@ -76,33 +75,33 @@ I'm a Full Stack Developer passionate about cloud computing, blockchain technolo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajid&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
-## 🏆 Achievements & Certifications
+## Professional Recognition
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=abdullahsajid&theme=darkhub&row=1&column=7)
+![Achievement Portfolio](https://github-profile-trophy.vercel.app/?username=abdullahsajid&theme=darkhub&row=1&column=7)
 
 </div>
 
-## 🤝 Let's Connect
+## Professional Network
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullahsajid0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/abdullahsajid0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://lablab.ai/u/@abdullahsajid" target="_blank">
-    <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/lablab.ai-Portfolio-000000?style=for-the-badge"/>
   </a>
   <a href="mailto:abdullahsajid320@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahsajid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <h4>🚀 Thanks for stopping by! Let's build something amazing together! 💻</h4>
+  <img src="https://komarev.com/ghpvc/?username=abdullahsajid&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile Analytics" />
+  <h4>Thank you for reviewing my professional portfolio. I welcome opportunities for collaboration and innovation.</h4>
 </div>
