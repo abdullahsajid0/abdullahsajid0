@@ -90,13 +90,13 @@ I'm a Full Stack Developer passionate about cloud computing, blockchain technolo
   <a href="https://www.linkedin.com/in/abdullahsajid0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/abdullahsajid" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://leetcode.com/u/abdullahsajid0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://dev.to/abdullahsajid" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <a href="https://lablab.ai/u/@abdullahsajid0" target="_blank">
+    <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
   </a>
-  <a href="mailto:abdullahsajid@gmail.com">
+  <a href="mailto:abdullahsajid320@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
