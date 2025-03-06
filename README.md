@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=abdullahsajid&color=47cf73&style=for-the-badge&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=abdullahsajid0&color=47cf73&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
@@ -23,7 +23,7 @@
 <summary><h2>👨‍💻 About Me</h2></summary>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="100"/>
-  <p>I'm a Full Stack Developer specializing in Cloud Computing and Web3 technologies, based in Faisalabad, Pakistan.</p>
+  <p>I'm a Full Stack Developer specializing in Artificial Intelligence and Generative AI , based in Faisalabad, Pakistan.</p>
   <p>Currently pursuing a Bachelor of Software Engineering (2023-2027) at University of Agriculture, Faisalabad.</p>
 </div>
 
@@ -59,17 +59,17 @@ const Abdullah = {
 <details open>
 <summary><h2>📊 GitHub Analytics</h2></summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahsajid&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&icon_color=4286F4&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajid&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahsajid0&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&icon_color=4286F4&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajid0&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&text_color=FFFFFF" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsajid&theme=vue-dark&hide_border=true&background=0D1117&stroke=0D1117&ring=47CF73&fire=4286F4&currStreakLabel=47CF73&sideLabels=47CF73" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsajid0&theme=vue-dark&hide_border=true&background=0D1117&stroke=0D1117&ring=47CF73&fire=4286F4&currStreakLabel=47CF73&sideLabels=47CF73" width="70%"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/abdullahsajid">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsajid&custom_title=Abdullah's%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=47CF73&point=4286F4&area_color=47CF73&area=true&hide_border=true" width="95%"/>
+  <a href="https://github.com/abdullahsajid0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsajid0&custom_title=Abdullah's%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=47CF73&point=4286F4&area_color=47CF73&area=true&hide_border=true" width="95%"/>
   </a>
 </div>
 </details>
@@ -78,7 +78,7 @@ const Abdullah = {
 <summary><h2>🔥 Skills & Technologies</h2></summary>
 <h3 align="center">Core Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,solidity&theme=dark" />
 </p>
 
 <h3 align="center">Frontend & Backend Development</h3>
@@ -92,18 +92,18 @@ const Abdullah = {
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahsajid&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahsajid0&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" width="95%"/>
 </div>
 </details>
 
 <details open>
 <summary><h2>🛠️ Current Projects</h2></summary>
 <div align="center">
-  <a href="https://github.com/abdullahsajid/urban-outfitter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahsajid&repo=urban-outfitter&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&icon_color=4286F4&text_color=FFFFFF" />
+  <a href="https://github.com/abdullahsajid0/doc-processor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahsajid0&repo=doc-processor&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&icon_color=4286F4&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/abdullahsajid/geodesicToDo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahsajid&repo=geodesicToDo&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&icon_color=4286F4&text_color=FFFFFF" />
+  <a href="https://github.com/abdullahsajid0/voice2voice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahsajid0&repo=voice2voice&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=47CF73&icon_color=4286F4&text_color=FFFFFF" />
   </a>
 </div>
 </details>
